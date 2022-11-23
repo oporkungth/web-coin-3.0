@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Bang Bai Mai",
+			"country": {
+				"code": "TH",
+				"name": "Thailand"
+			},
+			"subdivision": {
+				"code": "84",
+				"name": "Surat Thani"
+			},
+			"timezone": "Asia/Bangkok",
+			"latitude": 9.1308,
+			"longitude": 99.3628
+		},
+		"timestamp": 1669183991539
+	}
+}
